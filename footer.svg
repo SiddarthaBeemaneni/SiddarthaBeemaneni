@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180">
+<defs><linearGradient id="g"><stop stop-color="#00F7FF"><animate attributeName="stop-color" values="#00F7FF;#FF0080;#7C3AED;#00F7FF" dur="10s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
+<rect width="1200" height="180" rx="24" fill="#050816"/>
+<path d="M0 130 Q150 50 300 130 T600 130 T900 130 T1200 130" fill="none" stroke="url(#g)" stroke-width="4">
+<animate attributeName="d" values="M0 130 Q150 50 300 130 T600 130 T900 130 T1200 130;M0 130 Q150 180 300 130 T600 130 T900 130 T1200 130;M0 130 Q150 50 300 130 T600 130 T900 130 T1200 130" dur="5s" repeatCount="indefinite"/>
+</path>
+<text x="600" y="75" text-anchor="middle" fill="white" font-family="monospace" font-size="28">BUILD • LEARN • EXPERIMENT • SHIP</text>
+<text x="600" y="105" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="15">Thanks for stopping by 👋</text>
+</svg>

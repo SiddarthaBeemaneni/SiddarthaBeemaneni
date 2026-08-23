@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0"><animate attributeName="stop-color" values="#00F7FF;#7C3AED;#FF0080;#00F7FF" dur="10s" repeatCount="indefinite"/></stop>
+    <stop offset="1"><animate attributeName="stop-color" values="#FF0080;#00F7FF;#7C3AED;#FF0080" dur="10s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="300" rx="28" fill="#050816"/>
+<rect x="8" y="8" width="1184" height="284" rx="22" fill="none" stroke="url(#g)" stroke-width="4" filter="url(#glow)"/>
+<g fill="none" stroke="url(#g)" opacity=".35">
+ <circle cx="130" cy="90" r="55"><animate attributeName="r" values="35;75;35" dur="5s" repeatCount="indefinite"/></circle>
+ <circle cx="1070" cy="210" r="75"><animate attributeName="r" values="55;95;55" dur="6s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#fff" opacity=".7">
+ <circle cx="90" cy="50" r="2"><animate attributeName="opacity" values=".1;1;.1" dur="2s" repeatCount="indefinite"/></circle>
+ <circle cx="1110" cy="70" r="3"><animate attributeName="opacity" values="1;.1;1" dur="3s" repeatCount="indefinite"/></circle>
+ <circle cx="980" cy="250" r="2"><animate attributeName="opacity" values=".1;1;.1" dur="2.5s" repeatCount="indefinite"/></circle>
+</g>
+<text x="600" y="125" text-anchor="middle" fill="white" font-family="monospace" font-size="54" font-weight="700">SIDDARTHA</text>
+<text x="600" y="170" text-anchor="middle" fill="url(#g)" font-family="monospace" font-size="24">FULL-STACK DEVELOPER • AI/ML ENTHUSIAST</text>
+<text x="600" y="215" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="17">Building ideas into working software</text>
+</svg>
