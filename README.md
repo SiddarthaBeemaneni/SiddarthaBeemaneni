@@ -1,20 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=SIDDARTHA%20BEEMANENI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Code%20%7C%20Algorithms%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:172554,75:312e81,100:0891b2&text=SIDDARTHA%20BEEMANENI&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=PYTHON%20%7C%20AI%2FML%20%7C%20JAVA%20%7C%20C%2B%2B&descAlignY=59&descSize=18&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Java+%26+C%2B%2B+Problem+Solver;Building+%7C+Testing+%7C+Improving;Turning+ideas+into+working+code." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Siddartha+Beemaneni+%F0%9F%91%8B;Python+%7C+Java+%7C+C%2B%2B;Machine+Learning+%7C+Algorithms;I+learn+by+building+real+things.;Code.+Experiment.+Improve." alt="Typing Animation"/>
 
 <br><br>
 
-<a href="https://github.com/SiddarthaBeemaneni">
-<img src="https://img.shields.io/badge/GitHub-SiddarthaBeemaneni-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SiddarthaBeemaneni?tab=repositories">
-<img src="https://img.shields.io/badge/24_Public_Repositories-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=SiddarthaBeemaneni&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -22,135 +16,116 @@
 
 <div align="center">
 
-## ⚡ THE DEVELOPER BEHIND THE CODE
+# `whoami`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=%24+python+about_me.py;%24+loading+developer_profile...;%24+status%3A+learning+%2B+building;%24+status%3A+always+improving" alt="Terminal Animation"/>
 
 </div>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   Siddartha Beemaneni                                       │
-│                                                              │
-│   ├── 🐍 Python                                             │
-│   ├── 🤖 Machine Learning                                   │
-│   ├── ☕ Java                                               │
-│   ├── ⚡ C++                                                │
-│   ├── 🧠 Algorithms & Problem Solving                       │
-│   └── 🧪 Experimental / Practical Development               │
-│                                                              │
-│   Philosophy:                                                │
-│   Learn → Build → Test → Improve → Repeat                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  NAME        Siddartha Beemaneni                           │
+│  FOCUS       Programming • AI/ML • Algorithms              │
+│                                                            │
+│  LANGUAGES   Python • Java • C++                           │
+│                                                            │
+│  BUILDING    Practical software & ML experiments          │
+│                                                            │
+│  APPROACH    Learn → Build → Test → Improve               │
+│                                                            │
+│  CURRENTLY   Growing through hands-on development          │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
-I learn by building.
-
-My repositories document that journey — from Python fundamentals and algorithmic exercises to Java problem solving and practical machine-learning applications.
-
-I enjoy taking a concept, implementing it, testing it against real inputs, and then improving the solution.
-
 ---
 
 <div align="center">
 
-## 🧩 WHAT I WORK WITH
+# 🧠 MY DEVELOPMENT LOOP
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:0f172a,50:312e81,100:0891b2&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20TEST%20%E2%86%92%20IMPROVE&fontSize=22&fontColor=ffffff&animation=fadeIn" width="90%"/>
 
-<table align="center">
-<tr>
-<td align="center" width="180">
+<br><br>
 
-### 🐍 Python
-
-Programming<br>
-Data Processing<br>
-ML Applications
-
-</td>
-
-<td align="center" width="180">
-
-### 🤖 AI / ML
-
-Classification<br>
-Anomaly Detection<br>
-Model Evaluation
-
-</td>
-
-<td align="center" width="180">
-
-### ☕ Java
-
-Problem Solving<br>
-Collections<br>
-Algorithms
-
-</td>
-
-<td align="center" width="180">
-
-### ⚡ C++
-
-DAA<br>
-Algorithms<br>
-Implementation
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,flask,html,css,js,sqlite,numpy,pandas,sklearn,jupyter,git,github&perline=7" alt="Technology Stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=650&color=A78BFA&center=true&vCenter=true&width=720&lines=Understand+the+problem.;Break+it+into+smaller+pieces.;Implement+the+idea.;Test+edge+cases.;Measure+the+result.;Make+it+better." alt="Development Loop"/>
 
 </div>
 
 ---
 
+# ⚙️ TECHNICAL DNA
+
 <div align="center">
 
-## 🚀 FEATURED WORK
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,flask,sqlite,numpy,pandas,sklearn,jupyter,git,github&perline=7" alt="Technical Skills"/>
 
-### 🎫 TicketSense
+<br><br>
 
-**Helpdesk Ticket Classifier & Router**
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 </div>
 
-<table align="center">
-<tr>
-<td>
+---
 
-**Problem**
+# 🎫 FEATURED PROJECT
 
-Support tickets need to be routed and prioritized efficiently.
+<div align="center">
 
-**Approach**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=TicketSense;Helpdesk+Ticket+Classifier+%26+Router" alt="TicketSense"/>
 
-Natural-language ticket descriptions are transformed using **TF-IDF** and classified using **Logistic Regression**.
+</div>
 
-**Predicts**
+```text
+                     TICKETSENSE
+                          │
+                          ▼
+                ┌──────────────────┐
+                │ User Ticket      │
+                │ Natural Language │
+                └────────┬─────────┘
+                         │
+                         ▼
+                ┌──────────────────┐
+                │ TF-IDF           │
+                │ Vectorization    │
+                └────────┬─────────┘
+                         │
+                         ▼
+                ┌──────────────────┐
+                │ ML Classifiers   │
+                │ Logistic Reg.    │
+                └────────┬─────────┘
+                         │
+             ┌───────────┼───────────┐
+             ▼           ▼           ▼
+          QUEUE       PRIORITY    TYPE
+             │           │           │
+             └───────────┼───────────┘
+                         ▼
+                  SQLite Database
+                         │
+                         ▼
+                    Dashboard
+```
 
-`Queue` · `Priority` · `Ticket Type`
+**Stack**
 
-**Application**
+`Python` `Flask` `SQLite` `scikit-learn` `TF-IDF` `Logistic Regression` `HTML` `CSS` `JavaScript`
 
-`Python` · `Flask` · `SQLite` · `scikit-learn`
+**Core idea**
 
-</td>
-</tr>
-</table>
+Turn an unstructured support request into structured routing information that can be used by a helpdesk workflow.
 
 <div align="center">
 
 <a href="https://github.com/SiddarthaBeemaneni/TicketSense-Helpdesk-Ticket-Classifier-Router">
 
-<img src="https://img.shields.io/badge/EXPLORE_TICKETSENSE-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+<img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20TICKETSENSE-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 
 </a>
 
@@ -158,45 +133,44 @@ Natural-language ticket descriptions are transformed using **TF-IDF** and classi
 
 ---
 
+# 🤖 AI / MACHINE LEARNING LAB
+
 <div align="center">
 
-## 📊 MACHINE LEARNING LAB
-
-### `Internship-Tasks`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Data+in.;Features+out.;Models+trained.;Results+measured." alt="ML Animation"/>
 
 </div>
 
+### `Internship-Tasks`
+
+A practical collection of machine-learning experimentation.
+
 ```text
-DATA
-  │
-  ▼
-┌─────────────────────┐
-│ Data Preparation    │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ Feature Engineering │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ Model Training      │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ Model Comparison    │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ Evaluation          │
-│ Accuracy / F1 / ... │
-└─────────────────────┘
+             ┌──────────────┐
+             │     DATA     │
+             └──────┬───────┘
+                    ▼
+             ┌──────────────┐
+             │ PREPROCESS   │
+             └──────┬───────┘
+                    ▼
+             ┌──────────────┐
+             │   FEATURES   │
+             └──────┬───────┘
+                    ▼
+        ┌───────────┼───────────┐
+        ▼           ▼           ▼
+    Logistic      Random      Gradient
+   Regression     Forest      Boosting
+        │           │           │
+        └───────────┼───────────┘
+                    ▼
+             ┌──────────────┐
+             │  EVALUATION  │
+             └──────────────┘
 ```
 
-The repository contains practical experimentation around machine-learning workflows, including:
+Areas represented in the repository include:
 
 * Classification
 * Anomaly detection
@@ -208,49 +182,86 @@ The repository contains practical experimentation around machine-learning workfl
 * Cross-validation
 * Hyperparameter tuning
 * Confusion matrices
-* Accuracy / precision / recall / F1
-
-<a href="https://github.com/SiddarthaBeemaneni/Internship-Tasks">
-
-<img src="https://img.shields.io/badge/VIEW_ML_WORK-312e81?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
----
+* Accuracy
+* Precision
+* Recall
+* F1 evaluation
 
 <div align="center">
 
-## 🧠 PROBLEM SOLVING MODE
+<a href="https://github.com/SiddarthaBeemaneni/Internship-Tasks">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=Understand+the+problem.;Break+it+down.;Write+the+solution.;Test+the+edge+cases.;Optimize.;Repeat." alt="Problem Solving"/>
+<img src="https://img.shields.io/badge/OPEN%20ML%20LAB-312E81?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</a>
 
 </div>
 
-My Java and C++ repositories reflect a growing focus on algorithmic thinking and implementation.
+---
 
-### Areas explored
+# ☕ JAVA // PROBLEM SOLVING
 
-`Arrays` · `Sorting` · `Searching` · `Collections` · `Comparators` · `Lambda Expressions` · `Priority Queues` · `Data Structures` · `Algorithms`
+<div align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=ED8B00&center=true&vCenter=true&width=680&lines=Arrays;%20Sorting;%20Collections;%20Comparators;%20Lambda+Expressions;%20Priority+Queues;%20Algorithms" alt="Java Topics"/>
+
+</div>
+
+```java
+while (problemExists) {
+
+    understand();
+
+    breakIntoSmallerProblems();
+
+    implement();
+
+    test();
+
+    optimize();
+
+}
+```
+
+My Java work focuses on programming practice and algorithmic problem solving, including arrays, sorting, collections, comparators, lambda expressions, priority queues, and related exercises.
 
 <div align="center">
 
 <a href="https://github.com/SiddarthaBeemaneni/Problem-Solving-and-Testing-Using-Java">
 
-<img src="https://img.shields.io/badge/JAVA_PROBLEM_SOLVING-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20JAVA%20WORK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 </a>
 
+</div>
+
+---
+
+# ⚡ ALGORITHMS // C++
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Input+%E2%86%92+Logic+%E2%86%92+Complexity+%E2%86%92+Output;Design.;Analyze.;Implement.;Optimize." alt="Algorithm Animation"/>
+
+</div>
+
+My DAA repositories represent hands-on work with algorithmic implementation and problem solving using C++.
+
+**Focus**
+
+`Algorithms` · `Data Structures` · `Complexity` · `Searching` · `Sorting` · `Problem Solving`
+
+<div align="center">
+
 <a href="https://github.com/SiddarthaBeemaneni/DAA-tasks">
 
-<img src="https://img.shields.io/badge/DAA_TASKS-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAA%20TASKS-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </a>
 
 <a href="https://github.com/SiddarthaBeemaneni/VTU29662_Siddartha_DAA">
 
-<img src="https://img.shields.io/badge/ALGORITHM_WORK-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAA%20REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -258,178 +269,174 @@ My Java and C++ repositories reflect a growing focus on algorithmic thinking and
 
 ---
 
+# 🐍 PYTHON JOURNEY
+
 <div align="center">
 
-## 🐍 THE PYTHON JOURNEY
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=750&color=22C55E&center=true&vCenter=true&width=700&lines=From+fundamentals...;to+problem+solving...;to+data+visualization...;to+practical+experiments." alt="Python Journey"/>
 
 </div>
 
-My Python repositories cover the progression from fundamentals to practical experimentation.
+```text
+                    PYTHON
+                       │
+        ┌──────────────┼──────────────┐
+        ▼              ▼              ▼
+   FUNDAMENTALS    PROBLEM SOLVING    TOOLS
+        │              │              │
+   Expressions       Searching       NumPy
+   Data Types        Sorting          Matplotlib
+   Conditions        Functions        Tkinter
+   Loops             Files            Jupyter
+   Modules
+        │
+        ▼
+   ADVANCED CONCEPTS
+        │
+   Generators
+   Decorators
+   Exceptions
+        │
+        ▼
+   PRACTICAL PROJECTS
+        │
+   Simulations
+   Data Work
+   ML Experiments
+```
+
+Your Python repositories include work covering expressions, control flow, modules, data types, searching/sorting, file operations, functions, generators/decorators, exception handling, Matplotlib, Tkinter, NumPy simulations, and gaming concepts.
+
+---
+
+# 📚 REPOSITORY EVOLUTION
+
+Instead of displaying every repository as if it were a major portfolio project, I would show the evolution:
 
 ```text
-Fundamentals
-     │
-     ├── Expressions
-     ├── Conditions & Loops
-     ├── Data Types
-     ├── Modules & Packages
-     │
-     ▼
-Problem Solving
-     │
-     ├── Searching
-     ├── Sorting
-     ├── File Operations
-     └── Functions
-     │
-     ▼
-Beyond Basics
-     │
-     ├── Generators
-     ├── Decorators
-     ├── Exception Handling
-     └── Object-Oriented Concepts
-     │
-     ▼
-Practical Python
-     │
-     ├── NumPy
-     ├── Matplotlib
-     ├── Tkinter
-     └── Simulations
+2025
+ │
+ ├── Python Fundamentals
+ │     ├── Expressions
+ │     ├── Conditions / Loops
+ │     ├── Modules
+ │     ├── Data Types
+ │     ├── Searching / Sorting
+ │     └── File Operations
+ │
+ ▼
+Programming Practice
+ │
+ ├── Functions
+ ├── Generators
+ ├── Decorators
+ ├── Exception Handling
+ ├── Matplotlib
+ ├── Tkinter
+ └── NumPy
+ │
+ ▼
+2026
+ │
+ ├── Java Problem Solving
+ ├── DAA / C++
+ ├── Artificial Intelligence
+ ├── Internship ML Work
+ └── TicketSense
+```
+
+This is much more meaningful than a wall of `Task-1`, `Task-2`, `Task-3` links.
+
+---
+
+# 🧪 CURRENT MODE
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F43F5E&center=true&vCenter=true&width=700&lines=%5B+BUILDING+%5D;%5B+EXPERIMENTING+%5D;%5B+SOLVING+%5D;%5B+LEARNING+%5D;%5B+REPEATING+%5D" alt="Current Mode"/>
+
+</div>
+
+```text
+STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Programming       ███████████████░░  ACTIVE
+Algorithms        █████████████░░░░  ACTIVE
+Machine Learning  ████████████░░░░░  EXPLORING
+Python            ████████████████░  ACTIVE
+Java              ███████████░░░░░░  BUILDING
+C++               ██████████░░░░░░░  PRACTICING
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-<div align="center">
-
-## 🛠️ BUILD STACK
-
-</div>
-
-| Area                 | Technologies                    |
-| -------------------- | ------------------------------- |
-| Languages            | Python · Java · C++             |
-| Machine Learning     | scikit-learn · NumPy · Pandas   |
-| Data / Visualization | Matplotlib · Jupyter            |
-| Web                  | Flask · HTML · CSS · JavaScript |
-| Database             | SQLite                          |
-| Development          | Git · GitHub                    |
-
----
+# 📊 GITHUB PULSE
 
 <div align="center">
 
-## 📈 GITHUB ACTIVITY
+<img src="https://github-readme-stats.vercel.app/api?username=SiddarthaBeemaneni&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA" height="170"/>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SiddarthaBeemaneni&show_icons=true&hide_border=true&theme=transparent&title_color=38bdf8&text_color=cbd5e1&icon_color=a78bfa&bg_color=00000000" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddarthaBeemaneni&layout=compact&hide_border=true&theme=transparent&title_color=38bdf8&text_color=cbd5e1&bg_color=00000000" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddarthaBeemaneni&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1" height="170"/>
 
 </div>
 
 ---
 
+# 🔥 CONSISTENCY ENGINE
+
 <div align="center">
 
-## 🔥 CONSISTENCY
-
-<img src="https://streak-stats.demolab.com?user=SiddarthaBeemaneni&hide_border=true&background=00000000&ring=38bdf8&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=SiddarthaBeemaneni&hide_border=true&background=00000000&ring=38BDF8&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+# 🐍 CONTRIBUTION MOTION
+
 <div align="center">
 
-## 🐍 CONTRIBUTION TRAIL
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 📂 SELECTED REPOSITORIES
-
-</div>
-
-<table align="center">
-
-<tr>
-<td width="50%">
-
-### 🎫 TicketSense
-
-AI-assisted helpdesk ticket classification.
-
-**Python · Flask · SQLite · ML**
-
-</td>
-
-<td width="50%">
-
-### 📊 Internship Tasks
-
-Machine-learning experiments and evaluation.
-
-**Python · scikit-learn · Jupyter**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☕ Java Problem Solving
-
-Core Java + algorithmic implementation.
-
-**Java · Collections · Algorithms**
-
-</td>
-
-<td width="50%">
-
-### ⚡ DAA Tasks
-
-Design and analysis of algorithm work.
-
-**C++ · Algorithms**
-
-</td>
-</tr>
-
-</table>
-
----
+# 🗃️ SELECTED REPOSITORIES
 
 <div align="center">
 
-## 🌱 CURRENTLY EVOLVING
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Improving+problem-solving+skills;Building+better+ML+projects;Writing+cleaner+code;Learning+through+experimentation;One+repository+at+a+time." alt="Currently Learning"/>
+| Repository                                                                                                                              |       Area       |
+| :-------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
+| [🎫 TicketSense](https://github.com/SiddarthaBeemaneni/TicketSense-Helpdesk-Ticket-Classifier-Router)                                   |  AI / ML / Flask |
+| [🤖 Internship-Tasks](https://github.com/SiddarthaBeemaneni/Internship-Tasks)                                                           | Machine Learning |
+| [☕ Problem Solving & Testing Using Java](https://github.com/SiddarthaBeemaneni/Problem-Solving-and-Testing-Using-Java)                  |       Java       |
+| [⚡ DAA Tasks](https://github.com/SiddarthaBeemaneni/DAA-tasks)                                                                          | C++ / Algorithms |
+| [🧠 Artificial Intelligence Techniques](https://github.com/SiddarthaBeemaneni/10212CS211_ARTIFICIAL-INTELLIGENCE-TECHNIQUES_-VTU29662-) |        AI        |
+| [📐 VTU DAA](https://github.com/SiddarthaBeemaneni/VTU29662_Siddartha_DAA)                                                              |    Algorithms    |
 
 </div>
 
 ---
 
+# 🎯 THE NEXT COMMIT
+
 <div align="center">
 
-## 💭 DEVELOPMENT PRINCIPLE
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=90&section=header&text=LEARN%20%7C%20BUILD%20%7C%20TEST%20%7C%20IMPROVE&fontSize=22&fontColor=38BDF8&animation=fadeIn" width="90%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=There+is+always+another+problem+to+solve.;Another+model+to+test.;Another+idea+to+build.;Another+commit+to+make." alt="Next Commit"/>
 
 <br><br>
 
-**I don't want to just know the syntax.
-I want to understand why the solution works.**
+```text
+┌──────────────────────────────────────┐
+│                                      │
+│       KEEP BUILDING. KEEP LEARNING.  │
+│                                      │
+└──────────────────────────────────────┘
+```
 
 </div>
 
@@ -437,16 +444,20 @@ I want to understand why the solution works.**
 
 <div align="center">
 
-## 🔗 FIND ME ON GITHUB
+# 👋 THANKS FOR STOPPING BY
 
-<a href="https://github.com/SiddarthaBeemaneni">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Explore+the+repositories.;Read+the+code.;Try+the+projects.;Watch+the+journey." alt="Goodbye Animation"/>
 
-<img src="https://img.shields.io/badge/SiddarthaBeemaneni-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br><br>
+
+<a href="https://github.com/SiddarthaBeemaneni?tab=repositories">
+
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0891b2,50:312e81,100:020617&section=footer&animation=twinkling" width="100%"/>
 
 </div>
