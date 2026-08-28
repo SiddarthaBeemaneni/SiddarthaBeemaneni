@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/siddartha-beemaneni-37b0573aa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://leetcode.com/your-leetcode/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -46,6 +46,7 @@ looking_for: Opportunities to build and contribute to real-world projects
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
 `HTML` ████████████████████ 90%
+
 `CSS` ███████████████████░ 85%
 
 </td>
@@ -57,6 +58,7 @@ looking_for: Opportunities to build and contribute to real-world projects
 <img src="https://img.shields.io/badge/DSA-000000?style=flat-square&logo=leetcode&logoColor=white" />
 
 `Java`   ███████████████░░░░ 75%
+
 `DSA`    ███████████████░░░░ 75%
 
 </td>
@@ -117,7 +119,7 @@ Successfully completed the internship with complete dedication, delivering assig
 
 I'm open to internships, freshers roles, and collaborative projects — feel free to reach out.
 
-<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/siddartha-beemaneni-37b0573aa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
