@@ -1,219 +1,95 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There%20👋%20I'm%20%5BYour%20Name%5D&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Full%20Stack%20Enthusiast%20%7C%20DSA%20Solver&descAlignY=58&descSize=18" />
 
-<img src="./assets/hero.svg" width="100%" alt="Animated Siddartha profile header"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+Java+Enthusiast;DSA+Problem+Solver+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Python+Developer;Building+ideas+into+working+software;Learning+%7C+Building+%7C+Experimenting" alt="Typing animation"/>
-
-<br/><br/>
-
-<a href="https://github.com/SiddarthaBeemaneni">
-<img src="https://img.shields.io/badge/GitHub-SiddarthaBeemaneni-111827?style=for-the-badge&logo=github" />
-</a>
-<a href="https://github.com/SiddarthaBeemaneni?tab=repositories">
-<img src="https://img.shields.io/badge/24%2B%20Repositories-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
 
 ---
 
-<div align="center">
+### 🚀 About Me
 
-## ⚡ `whoami`
-
-<img src="./assets/terminal.svg" width="92%" alt="Animated terminal introduction"/>
-
-</div>
-
-## 🧑‍💻 About Me
-
-I'm **B. Venkata Siddartha**, a developer interested in building useful software across the **web, backend, data, and AI/ML**.
-
-I enjoy taking a problem from an idea → implementation → working application.
-
-```text
-🌐 Web Development       →   Frontend + Backend + APIs
-🐍 Python                →   Applications + Automation + Data
-🤖 Machine Learning      →   Classification + Regression + Anomaly Detection
-📊 Data                  →   NumPy + Pandas + Visualization
-🧩 Problem Solving       →   DSA + Programming Practice
-🚀 Product Building      →   Turning projects into usable applications
-```
+- 🌱 I'm currently sharpening my skills in **Full Stack Web Development**
+- 💻 I love building clean, responsive, and user-friendly websites
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 🏢 Completed a **1-month internship at Innolift Ventures**, where I contributed with full dedication and successfully delivered my tasks
+- ⚡ Fun fact: I enjoy turning ideas into working web applications from scratch
 
 ---
 
-## 🧠 Tech Stack
+### 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,git,github,vscode&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,flask,sqlite,git,github" />
+**Languages & Core Skills**
 
-<br/><br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib" />
+**Areas of Interest**
 
-</div>
-
----
-
-## 🚀 Featured Work
-
-### 🎫 TicketSense — AI Helpdesk Ticket Classifier & Router
-
-An AI-powered helpdesk application that classifies incoming support tickets and routes them using machine learning.
-
-**Built with:** `Python` `Flask` `SQLite` `Scikit-learn` `TF-IDF` `Logistic Regression` `HTML` `CSS` `JavaScript`
-
-**What it demonstrates:**
-- 🤖 Machine-learning based classification
-- 🎯 Ticket queue, priority and type prediction
-- 📊 Dashboard and ticket management
-- 🔐 Authentication
-- 🔌 API-based backend
-- 🗄️ Database integration
-- ☁️ Deployment-ready Flask architecture
-
-<div align="center">
-
-<a href="https://github.com/SiddarthaBeemaneni/TicketSense-Helpdesk-Ticket-Classifier-Router">
-<img src="https://img.shields.io/badge/🚀%20Explore%20TicketSense-111827?style=for-the-badge" />
-</a>
-
-</div>
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Development-4B32C3?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6F00?style=for-the-badge)
 
 ---
 
-### 📈 Student Performance Analysis & Prediction
+### 💼 Experience
 
-A machine-learning project exploring student data, relationships between variables, and prediction of exam performance.
-
-**Focus:** `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Regression` `EDA`
-
----
-
-### 🚨 Server Resource Anomaly Predictor
-
-A data/ML project focused on detecting unusual server-resource behavior from telemetry and engineered statistical features.
-
-**Focus:** `Python` `Pandas` `Scikit-learn` `Random Forest` `Feature Engineering`
+**Web Developer Intern** — *Innolift Ventures* (1 Month)
+- Successfully completed the internship with full dedication and effort
+- Gained hands-on experience working on real-world web development tasks
+- Strengthened my practical skills in building and structuring websites
 
 ---
 
-## 🛠️ What I Build
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical"/>
+</p>
 
-| 🌐 Web | 🤖 AI / ML | 📊 Data | 🐍 Python |
-|:---:|:---:|:---:|:---:|
-| Frontend | Classification | EDA | Automation |
-| Backend | Regression | Visualization | Applications |
-| REST APIs | Anomaly Detection | Pandas | Problem Solving |
-| Databases | Model Evaluation | NumPy | Scripting |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark" alt="Activity Graph"/>
+</p>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SiddarthaBeemaneni&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddarthaBeemaneni&layout=compact&hide_border=true&theme=transparent" width="41%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=SiddarthaBeemaneni&hide_border=true&theme=transparent" width="70%" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
 ---
 
-## 🐍 Contribution Activity
+### 📫 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-<img src="https://raw.githubusercontent.com/SiddarthaBeemaneni/SiddarthaBeemaneni/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-## 🔄 My Developer Journey
-
-<div align="center">
-
-```text
-Python Fundamentals
-        │
-        ▼
-Data Structures & Algorithms
-        │
-        ▼
-NumPy + Pandas
-        │
-        ▼
-Data Analysis + Visualization
-        │
-        ▼
-Machine Learning
-        │
-        ▼
-Flask + Backend Development
-        │
-        ▼
-Full-Stack Applications
-        │
-        ▼
-AI-Powered Web Applications
-        │
-        ▼
-        🚀 NEXT: Production + Cloud + Advanced AI
-```
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🌱 Currently Exploring
+<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to check out my repositories.</i></p>
 
-```text
-[████████████████████░░] Full-Stack Development
-[██████████████████░░░░] Machine Learning
-[█████████████████░░░░░] AI Applications
-[███████████████░░░░░░░] Backend Architecture
-[██████████████░░░░░░░░] Cloud & Deployment
-[████████████████░░░░░░] Data Structures & Algorithms
-```
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Build production-quality full-stack applications
-- 🤖 Create practical AI-powered products
-- 🧠 Level up DSA and problem solving
-- ☁️ Learn deeper cloud and deployment workflows
-- 🔧 Improve backend architecture and database design
-- 🌍 Contribute to open-source projects
-- 💡 Turn more ideas into shipped products
-
----
-
-## 💬 Developer Mode
-
-<div align="center">
-
-<img src="./assets/footer.svg" width="100%" alt="Animated developer footer"/>
-
-### `BUILD → BREAK → LEARN → FIX → SHIP → REPEAT`
-
-<br/>
-
-<a href="https://github.com/SiddarthaBeemaneni?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
