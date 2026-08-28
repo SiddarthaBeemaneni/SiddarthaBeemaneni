@@ -1,95 +1,125 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There%20👋%20I'm%20%5BYour%20Name%5D&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Full%20Stack%20Enthusiast%20%7C%20DSA%20Solver&descAlignY=58&descSize=18" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=BEEMANENI%20VENKATA%20SIDDARTHA&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Full%20Stack%20Enthusiast%20%7C%20DSA%20Problem%20Solver&descAlignY=52&descSize=17&descColor=cbd5e1" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Building+Clean+%26+Responsive+Web+Interfaces;Solving+Problems+with+Data+Structures+%26+Algorithms;Aspiring+Full+Stack+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://leetcode.com/your-leetcode/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+## 📌 About Me
+
+I'm a **Web Developer** with a strong foundation in front-end technologies and problem-solving. I enjoy turning ideas into clean, functional, and responsive web applications — and I'm actively building toward becoming a confident **Full Stack Developer**.
+
+```yaml
+name: Beemaneni Venkata Siddartha
+role: Web Developer
+focus: Full Stack Development
+strengths: [HTML, CSS, Java, Data Structures & Algorithms]
+currently_learning: Backend frameworks & database integration
+looking_for: Opportunities to build and contribute to real-world projects
+```
+
+<br/>
+
+## 🧰 Technical Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+`HTML` ████████████████████ 90%
+`CSS` ███████████████████░ 85%
+
+</td>
+<td valign="top" width="50%">
+
+**Programming & Problem Solving**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-000000?style=flat-square&logo=leetcode&logoColor=white" />
+
+`Java`   ███████████████░░░░ 75%
+`DSA`    ███████████████░░░░ 75%
+
+</td>
+</tr>
+</table>
+
+**Currently exploring:** Full Stack Development (backend frameworks, databases, and API integration)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;HTML+%7C+CSS+%7C+Java+Enthusiast;DSA+Problem+Solver+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql,git,github,vscode&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</p>
+<br/>
 
----
+## 💼 Experience
 
-### 🚀 About Me
+<table>
+<tr>
+<td width="120" valign="top"><b>1 Month</b></td>
+<td>
 
-- 🌱 I'm currently sharpening my skills in **Full Stack Web Development**
-- 💻 I love building clean, responsive, and user-friendly websites
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🏢 Completed a **1-month internship at Innolift Ventures**, where I contributed with full dedication and successfully delivered my tasks
-- ⚡ Fun fact: I enjoy turning ideas into working web applications from scratch
+**Web Developer Intern** · *Innolift Ventures*
+Successfully completed the internship with complete dedication, delivering assigned tasks on time. Gained hands-on exposure to real-world web development workflows and strengthened my practical front-end skills.
 
----
+</td>
+</tr>
+</table>
 
-### 🛠️ Tech Stack
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,git,github,vscode&theme=dark" />
-</p>
+## 🎯 What I'm Working Toward
 
-**Languages & Core Skills**
+- 🏗️ Building complete **full stack** web applications end-to-end
+- 🧩 Strengthening backend and database skills to complement my front-end foundation
+- 📈 Consistently solving DSA problems to sharpen problem-solving speed and accuracy
+- 🤝 Looking for internships/roles where I can contribute and keep growing
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=white)
+<br/>
 
-**Areas of Interest**
+## 📊 GitHub Stats
 
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Development-4B32C3?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6F00?style=for-the-badge)
+<div align="center">
 
----
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 💼 Experience
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-**Web Developer Intern** — *Innolift Ventures* (1 Month)
-- Successfully completed the internship with full dedication and effort
-- Gained hands-on experience working on real-world web development tasks
-- Strengthened my practical skills in building and structuring websites
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 
----
+</div>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical"/>
-</p>
+## 📫 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark" alt="Activity Graph"/>
-</p>
+I'm open to internships, freshers roles, and collaborative projects — feel free to reach out.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
----
+</div>
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
-
----
-
-<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to check out my repositories.</i></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
