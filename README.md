@@ -1,127 +1,133 @@
-<div align="center">
+# 👋 Hey, I'm YOUR_USERNAME!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=BEEMANENI%20VENKATA%20SIDDARTHA&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Full%20Stack%20Enthusiast%20%7C%20DSA%20Problem%20Solver&descAlignY=52&descSize=17&descColor=cbd5e1" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Building+Clean+%26+Responsive+Web+Interfaces;Solving+Problems+with+Data+Structures+%26+Algorithms;Aspiring+Full+Stack+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/siddartha-beemaneni-37b0573aa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://leetcode.com/your-leetcode/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
-
-<br/>
-
-## 📌 About Me
-
-I'm a **Web Developer** with a strong foundation in front-end technologies and problem-solving. I enjoy turning ideas into clean, functional, and responsive web applications — and I'm actively building toward becoming a confident **Full Stack Developer**.
-
-```yaml
-name: Beemaneni Venkata Siddartha
-role: Web Developer
-focus: Full Stack Development
-strengths: [HTML, CSS, Java, Data Structures & Algorithms]
-currently_learning: Backend frameworks & database integration
-looking_for: Opportunities to build and contribute to real-world projects
-```
-
-<br/>
-
-## 🧰 Technical Skills
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-`HTML` ████████████████████ 90%
-
-`CSS` ███████████████████░ 85%
-
-</td>
-<td valign="top" width="50%">
-
-**Programming & Problem Solving**
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA-000000?style=flat-square&logo=leetcode&logoColor=white" />
-
-`Java`   ███████████████░░░░ 75%
-
-`DSA`    ███████████████░░░░ 75%
-
-</td>
-</tr>
-</table>
-
-**Currently exploring:** Full Stack Development (backend frameworks, databases, and API integration)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer+%E2%98%95;Web+Developer+%F0%9F%8C%90;Building+Cool+Things+with+Code+%F0%9F%9A%80;Always+Learning+%26+Improving+%F0%9F%94%A5" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql,git,github,vscode&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<br/>
+---
 
-## 💼 Experience
+## 🚀 About Me
 
-<table>
-<tr>
-<td width="120" valign="top"><b>1 Month</b></td>
-<td>
+💻 I'm a passionate **Web Developer** and **Java Programmer** who enjoys turning ideas into real-world applications.
 
-**Web Developer Intern** · *Innolift Ventures*
-Successfully completed the internship with complete dedication, delivering assigned tasks on time. Gained hands-on exposure to real-world web development workflows and strengthened my practical front-end skills.
+☕ I love building applications with **Java**, designing modern **web experiences**, and continuously learning new technologies.
 
-</td>
-</tr>
-</table>
+* 🌱 Currently improving my **Java & Web Development** skills
+* ☕ Java enthusiast
+* 🌐 Web Development lover
+* 🧠 Always learning something new
+* 🚀 Interested in building useful and creative projects
+* 🎯 Goal: Become a better developer every day
 
-<br/>
+---
 
-## 🎯 What I'm Working Toward
+## 🛠️ Tech Stack
 
-- 🏗️ Building complete **full stack** web applications end-to-end
-- 🧩 Strengthening backend and database skills to complement my front-end foundation
-- 📈 Consistently solving DSA problems to sharpen problem-solving speed and accuracy
-- 🤝 Looking for internships/roles where I can contribute and keep growing
+### ☕ Programming
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql,mongodb,linux" />
+</p>
+
+---
+
+## 💻 What I Like Building
+
+```text
+╔══════════════════════════════════════╗
+║                                      ║
+║   ☕ Java Applications                ║
+║   🌐 Modern Websites                 ║
+║   ⚡ Interactive Web Applications    ║
+║   🗄️ Database-driven Applications   ║
+║   🚀 Creative Side Projects          ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+## 🔥 GitHub Streak
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+---
 
-<br/>
+## 🐍 My Contribution Animation
 
-## 📫 Let's Connect
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
-<div align="center">
+---
 
-I'm open to internships, freshers roles, and collaborative projects — feel free to reach out.
+## 🌟 Featured Projects
 
-<a href="https://www.linkedin.com/in/siddartha-beemaneni-37b0573aa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
 
-</div>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&theme=tokyonight&hide_border=true" />
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
+</p>
+
+> 💡 Check out my repositories to see what I'm currently building!
+
+---
+
+## 🎯 2026 Goals
+
+* ☕ Master advanced **Java**
+* 🌐 Build production-ready **web applications**
+* 🧩 Improve problem-solving & DSA
+* 🚀 Create more open-source projects
+* 📚 Learn new frameworks and technologies
+* 🤝 Collaborate with other developers
+
+---
+
+## 💬 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+  ✨ "Code. Create. Learn. Repeat." ✨
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
